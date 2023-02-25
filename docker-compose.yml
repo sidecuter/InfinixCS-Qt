@@ -1,0 +1,14 @@
+services:
+  serv:
+    build: .
+    ports:
+      - "8000:5000"
+    volumes:
+      - .:/code
+    #  - logvolume01:/var/log
+    #depends_on:
+    #  - redis
+  #some-db:
+  #  image: some-db
+#volumes:
+#  logvolume01: {}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/doc/_deps/fmt-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/doc/_deps/m.css-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/doc/_deps/packageproject.cmake-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/standalone/_deps/fmt-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/standalone/_deps/packageproject.cmake-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/test/_deps/doctest-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/test/_deps/fmt-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/test/_deps/format.cmake-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/build/test/_deps/packageproject.cmake-src" vcs="Git" />
+  </component>
+</project>

@@ -10,6 +10,7 @@
 *.dll
 *.dylib
 
+
 # Qt-es
 object_script.*.Release
 object_script.*.Debug
@@ -44,6 +45,8 @@ target_wrapper.*
 
 # QtCreator CMake
 CMakeLists.txt.user*
+build/
+all/cmake-build-debug/
 
 # QtCreator 4.8< compilation database 
 compile_commands.json
